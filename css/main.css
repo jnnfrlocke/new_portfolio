@@ -1,13 +1,14 @@
 img {
-    margin: auto;
-    display: block;
+    width: 100%;
+    margin: 25px auto;
+    vertical-align: middle;
 }
 
 h1 {
     text-align: right;
     font-family: 'Poppins', sans-serif;
     font-variant: small-caps;
-    font-weight: 800;
+    /* font-weight: 800; */
     letter-spacing: .2em;
     text-decoration: underline;
     padding-bottom: 20px;
